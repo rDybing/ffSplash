@@ -1,0 +1,17 @@
+baseURL = "http://flexitefire.no/"
+languageCode = "no-nb"
+title = "Flexite Fire"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Flexite Fire solutions for fire-departments"
+
+[Author]
+    name = "Roy Dybing"
+    email = "roy@flexitefire.no"
+
+[Social]
+    twitter = "DybingRoy"
